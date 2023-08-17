@@ -1,0 +1,5 @@
+ Utilizado: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem (2022)
+
+Outras fontes para referência:
+https://repositorio.ufersa.edu.br/bitstream/prefix/6916/1/ThiagoOS_MONO.pdf
+https://dspace.bc.uepb.edu.br/xmlui/bitstream/handle/123456789/26068/PDF%20-%20Marcio%20Edglaiton%20Rosa%20Farias?sequence=1&isAllowed=y
