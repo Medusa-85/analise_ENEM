@@ -12,7 +12,8 @@ No decorrer deste trabalho, cada integrante concentrou-se em trazer perspectivas
 
 Ao longo desta apresentação, exploraremos as descobertas e insights resultantes de nossa abordagem, destacando como as variáveis socioeconômicas podem influenciar o desempenho dos alunos no ENEM de 2022.
 
-
+Fonte de dados: https://www.gov.br/inep/pt-br/assuntos/noticias/enem/divulgados-microdados-do-enem-2022
+Dataset  que otimizamos: https://drive.google.com/file/d/1XlGOZV6vDR7J2ohzMmOjP94XYygWeKj_/view?usp=sharing
 
 
 # O projeto:
