@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+enem_2022_v2.csv
+
 # Distribution / packaging
 .Python
 build/
