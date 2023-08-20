@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Dataset
+enem_2020.csv
 enem_2022_v2.csv
 enem_2020.csv
 
