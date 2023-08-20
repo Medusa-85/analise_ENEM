@@ -8,6 +8,7 @@ __pycache__/
 
 # Dataset
 enem_2022_v2.csv
+enem_2020.csv
 
 # Distribution / packaging
 .Python
@@ -161,7 +162,3 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-enem_2022_2019.csv
-data/~$Dicionário_Microdados_Enem_2022.ods
-data/~$Dicionário_Microdados_Enem_2022.xlsx
-analysis_2022/enem_2020.csv
