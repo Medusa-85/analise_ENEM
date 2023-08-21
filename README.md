@@ -16,7 +16,9 @@ Dataset que otimizamos: https://drive.google.com/file/d/1XlGOZV6vDR7J2ohzMmOjP94
 # O projeto:
 
 Projeto Final: Técnicas de Programação I
+
 Professor: Matheus Barão Fiorin
+
 Equipe: Maria Gabrielly A. Santana, Mariana Oliveira de Lima, Ricardo Steigleder Endres, Thiago Gonçalves 
 
 Projeto Santander Coders 2023 - DS
