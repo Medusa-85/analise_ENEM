@@ -1,6 +1,7 @@
 Utilizado: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem (2022)
 Slides: https://docs.google.com/presentation/d/1jl6kIQpPg1zX37nabd9pVCL4iJezdHaKAARKA5_biys/edit?usp=sharing
 Drive com datasets limpos: https://drive.google.com/drive/folders/1nXIqDoOgyROccN2XLivu5wr7YGyuJc5F?usp=drive_link
+Documento com análises completas: https://docs.google.com/document/d/1ndi7hEay_xCgghu6U50LlYlGEkn55q1uOJq17ENbJKw/edit?usp=sharing
 
 Outras fontes para referência:
 https://repositorio.ufersa.edu.br/bitstream/prefix/6916/1/ThiagoOS_MONO.pdf
